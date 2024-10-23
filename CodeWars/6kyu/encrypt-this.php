@@ -28,3 +28,43 @@ echo encryptThis("А") . PHP_EOL;
 echo encryptThis("A wise old owl lived in an oak") . PHP_EOL;
 echo encryptThis("The more he saw the less he spoke") . PHP_EOL;
 echo encryptThis("The less he spoke the more he heard") . PHP_EOL;
+
+
+// c#
+// using System;
+// namespace Net
+// {
+//     internal class Program
+//     {
+//         static string encode(string str)
+//         {
+//             string[] arr = str.Split(" ");
+
+//             for (int i = 0; i < arr.Length; i++)
+//             {
+//                 int a = Convert.ToInt32(arr[i][0]);
+                
+//                 if(arr[i].Length > 1){
+//                     char start = arr[i][1];
+//                     string last = arr[i][arr[i].Length - 1].ToString();
+
+//                     string stringOut = arr[i].Substring(1);
+
+//                     if(stringOut.Length > 1){
+//                         stringOut = stringOut.Substring(1, stringOut.Length - 1);
+
+//                         arr[i] = a + last + stringOut + start;
+//                     }else if(stringOut.Length == 1){
+//                         arr[i] = a + stringOut;
+//                     } else {
+//                         arr[i] = a + last + stringOut + start;
+//                     }
+//                 } else {
+//                     arr[i] = a.ToString();
+//                 }
+//             }
+
+//             return string.Join(" ", arr);
+//         }
+//     }
+// }
