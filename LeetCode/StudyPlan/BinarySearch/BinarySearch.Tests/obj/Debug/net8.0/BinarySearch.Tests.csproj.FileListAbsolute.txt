@@ -151,4 +151,4 @@
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests/obj/Debug/net8.0/BinarySearch.Tests.pdb
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests/obj/Debug/net8.0/BinarySearch.Tests.genruntimeconfig.cache
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests/obj/Debug/net8.0/ref/BinarySearch.Tests.dll
-/Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests/obj/Debug/net8.0/BinarySearch.Tests.csproj.CopyComplete
+/Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests/obj/Debug/net8.0/BinarySe.2F004FD6.Up2Date
