@@ -1,11 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1e623492_002D534a_002D46fc_002D9505_002Db53fb9ff315c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Search_LastElement" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::F4080B51-2B0F-9C0B-94BB-C3F2AB47E898::net8.0::BinarySearch.Tests.BinarySearch704Tests.Search_LastElement&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=56c745de_002D13ee_002D4bd9_002D8c34_002D68e5a76f9729/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Search_LastElement #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::F4080B51-2B0F-9C0B-94BB-C3F2AB47E898::net8.0::BinarySearch.Tests.BinarySearch704Tests.Search_LastElement&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=07e8aa42_002Df2a8_002D49e4_002Db6fc_002D0e6536d3168c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from &amp;lt;BinarySearch.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch.Tests" Presentation="&amp;lt;BinarySearch.Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
