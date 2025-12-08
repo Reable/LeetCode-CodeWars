@@ -29,7 +29,7 @@ public class FindFirstAndLastPositionElementInSortedArray34
             if (nums[mid] == target)
             {
                 result = mid;
-                r -= 1;
+                r = mid - 1;
             }
 
             if (nums[mid] < target)
@@ -55,7 +55,7 @@ public class FindFirstAndLastPositionElementInSortedArray34
             if (nums[mid] == target)
             {
                 result = mid;
-                l += 1;
+                l = mid + 1;
             }
 
             if (nums[mid] < target)

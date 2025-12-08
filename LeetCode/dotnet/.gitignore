@@ -1,0 +1,39 @@
+# Сборка
+bin/
+obj/
+
+# VS Code
+.vscode/
+
+# Rider/VS
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Пакеты NuGet
+packages/
+**/[Pp]ackages/
+
+# Результаты тестов
+TestResults/
+*.testlog
+
+# Локальные настройки
+*.lock.json
+
+# Временные файлы
+*.tmp
+*.log
+
+# Артефакты публикации
+publish/
+dist/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
