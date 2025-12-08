@@ -1,6 +1,6 @@
 ﻿namespace BinarySearch;
 
-public class BinarySearch704 {
+public class BinarySearch {
     public int Search(int[] nums, int target)
     {
         int result = -1;

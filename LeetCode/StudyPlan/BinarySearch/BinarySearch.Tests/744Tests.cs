@@ -1,8 +1,8 @@
 namespace BinarySearch.Tests;
 
-public class FindSmallestLetterGreaterThanTarget744Tests
+public class FindSmallestLetterGreaterThanTargetTests
 {
-    private readonly FindSmallestLetterGreaterThanTarget744 _handler = new();
+    private readonly FindSmallestLetterGreaterThanTarget _handler = new();
     
     [Fact]
     public void LeetCodeSimpleTest()

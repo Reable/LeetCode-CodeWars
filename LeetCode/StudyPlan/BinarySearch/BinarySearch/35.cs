@@ -1,6 +1,6 @@
 namespace BinarySearch;
 
-public class SearchInsertPosition35
+public class SearchInsertPosition
 {
     public int SearchInsert(int[] nums, int target)
     {

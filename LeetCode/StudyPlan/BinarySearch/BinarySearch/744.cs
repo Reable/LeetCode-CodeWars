@@ -1,6 +1,6 @@
 namespace BinarySearch;
 
-public class FindSmallestLetterGreaterThanTarget744
+public class FindSmallestLetterGreaterThanTarget
 {
     
     public char NextGreatestLetter(char[] letters, char target) {

@@ -1,8 +1,8 @@
 namespace BinarySearch.Tests;
 
-public class SearchInsertPosition35Tests
+public class SearchInsertPositionTests
 {
-    private readonly SearchInsertPosition35 _sut = new();
+    private readonly SearchInsertPosition _sut = new();
 
     [Fact]
     public void BasicScenarios_TargetFound()

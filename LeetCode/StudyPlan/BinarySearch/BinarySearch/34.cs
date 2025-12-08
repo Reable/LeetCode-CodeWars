@@ -2,7 +2,7 @@ using System.Collections;
 
 namespace BinarySearch;
 
-public class FindFirstAndLastPositionElementInSortedArray34
+public class FindFirstAndLastPositionElementInSortedArray
 {
     public int[] SearchRange(int[] nums, int target)
     {

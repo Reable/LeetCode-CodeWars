@@ -1,9 +1,9 @@
 namespace BinarySearch.Tests;
 
-public class FindFirstAndLastPositionElementInSortedArray34Tests
+public class FindFirstAndLastPositionElementInSortedArrayTests
 {
     
-    private readonly FindFirstAndLastPositionElementInSortedArray34 _handler = new ();
+    private readonly FindFirstAndLastPositionElementInSortedArray _handler = new ();
     
     [Fact]
     public void LeetCodeSimpleTest()

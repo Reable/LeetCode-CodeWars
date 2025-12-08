@@ -1,9 +1,9 @@
 namespace BinarySearch.Tests;
 
-public class CountNegativeNumbersInSortedMatrix1351Tests
+public class CountNegativeNumbersInSortedMatrixTests
 {
     
-    private readonly CountNegativeNumbersInSortedMatrix1351 _handler = new ();
+    private readonly CountNegativeNumbersInSortedMatrix _handler = new ();
     
     [Fact]
     public void LeetCodeSimpleTest()

@@ -1,6 +1,6 @@
 namespace BinarySearch;
 
-public class CountNegativeNumbersInSortedMatrix1351
+public class CountNegativeNumbersInSortedMatrix
 {
     public int CountNegatives(int[][] grid)
     {
