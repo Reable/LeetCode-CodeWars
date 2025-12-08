@@ -2,14 +2,14 @@
 
 public class TaskFirstBadVersion {
     
-    public int FirstBadVersion(int version, int isBadVersion) {
+    public int FirstBadVersion(int version) {
         int l = 0;
         int r = version;
 
         while (l <= r)
         {
             int mid = l + (r - l) / 2;
-            bool result = IsBadVersion(mid, isBadVersion);
+            bool result = IsBadVersion(mid);
             
             if(result)
                 r = mid - 1;
@@ -20,11 +20,9 @@ public class TaskFirstBadVersion {
         return l;
     }
 
-    private static bool IsBadVersion(int version, int isBadVersion)
+    protected virtual bool IsBadVersion(int version)
     {
-        if (version == isBadVersion)
-            return true;
-        else
-            return false;
+        throw new NotImplementedException(
+            "Метод IsBadVersion должен быть переопределён в тестовой среде");
     }
 }
