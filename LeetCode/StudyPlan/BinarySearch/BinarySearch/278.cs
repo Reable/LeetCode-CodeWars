@@ -1,4 +1,4 @@
-﻿namespace Solutions;
+﻿namespace BinarySearch;
 
 public class TaskFirstBadVersion {
     

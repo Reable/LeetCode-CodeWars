@@ -1,4 +1,4 @@
-namespace Solutions.Tests;
+namespace BinarySearch.Tests;
 
 public class TaskFirstBadVersionTests : TaskFirstBadVersion
 {

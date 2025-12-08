@@ -1,6 +1,6 @@
 namespace BinarySearch.Tests;
 
-public class BinarySearch704Tests
+public class BinarySearchTests
 {
     private readonly BinarySearch _handler = new ();
     
