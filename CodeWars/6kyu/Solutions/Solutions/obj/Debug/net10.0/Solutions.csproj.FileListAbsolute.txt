@@ -1,0 +1,12 @@
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/bin/Debug/net10.0/Solutions.deps.json
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/bin/Debug/net10.0/Solutions.dll
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/bin/Debug/net10.0/Solutions.pdb
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.AssemblyInfoInputs.cache
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.AssemblyInfo.cs
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.csproj.CoreCompileInputs.cache
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.sourcelink.json
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.dll
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/refint/Solutions.dll
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/Solutions.pdb
+/Users/razmyslov/work/github/LeetCode-CodeWars/CodeWars/6kyu/Solutions/Solutions/obj/Debug/net10.0/ref/Solutions.dll
