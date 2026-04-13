@@ -1,6 +1,6 @@
 namespace Solutions;
 
-public class Array_3
+public class Array_1_3
 {
     public int FindMaxConsecutiveOnes(int[] nums) {
         int max = 0;

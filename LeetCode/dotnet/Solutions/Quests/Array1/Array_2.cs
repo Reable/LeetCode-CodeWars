@@ -1,6 +1,6 @@
 namespace Solutions;
 
-public class Array_2
+public class Array_1_2
 {
     public int[] Shuffle(int[] nums, int n) {
         int id = 0;

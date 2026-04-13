@@ -10,3 +10,15 @@
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch/obj/Debug/net10.0/refint/BinarySearch.dll
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch/obj/Debug/net10.0/BinarySearch.pdb
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/StudyPlan/BinarySearch/BinarySearch/obj/Debug/net10.0/ref/BinarySearch.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.deps.json
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\bin\Debug\net10.0\BinarySearch.pdb
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfoInputs.cache
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.AssemblyInfo.cs
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.csproj.CoreCompileInputs.cache
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.sourcelink.json
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\refint\BinarySearch.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\BinarySearch.pdb
+D:\work\git\github\LeetCode-CodeWars\LeetCode\StudyPlan\BinarySearch\BinarySearch\obj\Debug\net10.0\ref\BinarySearch.dll

@@ -1,8 +1,8 @@
 namespace Solutions.Tests.Quests.Array1;
 
-public class Array_1_Tests
+public class Array_1_1_Tests
 {
-    private readonly Array_1 _handler = new();
+    private readonly Array_1_1 _handler = new();
 
     [Fact]
     public void SingleElement_ReturnsElementTwice()

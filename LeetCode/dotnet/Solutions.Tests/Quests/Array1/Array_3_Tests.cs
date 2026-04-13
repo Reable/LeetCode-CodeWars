@@ -1,8 +1,8 @@
 namespace Solutions.Tests.Quests.Array1;
 
-public class Array_3_Tests
+public class Array_1_3_Tests
 {
-    private readonly Array_3 _handler = new();
+    private readonly Array_1_3 _handler = new();
 
     [Fact]
     public void SingleOne_ReturnsOne()

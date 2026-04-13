@@ -1,8 +1,8 @@
 namespace Solutions.Tests.Quests.Array1;
 
-public class Array_2_Tests
+public class Array_1_2_Tests
 {
-    private readonly Array_2 _handler = new();
+    private readonly Array_1_2 _handler = new();
 
     [Fact]
     public void Example1_FromLeetCode()

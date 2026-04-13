@@ -1,6 +1,6 @@
 namespace Solutions;
 
-public class Array_1
+public class Array_1_1
 {
     public int[] GetConcatenation(int[] nums) {
         int len = nums.Length;

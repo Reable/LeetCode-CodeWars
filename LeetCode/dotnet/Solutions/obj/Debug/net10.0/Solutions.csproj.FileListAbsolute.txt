@@ -22,3 +22,15 @@
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/dotnet/Solutions/obj/Debug/net10.0/refint/Solutions.dll
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/dotnet/Solutions/obj/Debug/net10.0/Solutions.pdb
 /Users/razmyslov/work/github/LeetCode-CodeWars/LeetCode/dotnet/Solutions/obj/Debug/net10.0/ref/Solutions.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\bin\Debug\net10.0\Solutions.deps.json
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\bin\Debug\net10.0\Solutions.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\bin\Debug\net10.0\Solutions.pdb
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.AssemblyInfoInputs.cache
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.AssemblyInfo.cs
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.csproj.CoreCompileInputs.cache
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.sourcelink.json
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\refint\Solutions.dll
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\Solutions.pdb
+D:\work\git\github\LeetCode-CodeWars\LeetCode\dotnet\Solutions\obj\Debug\net10.0\ref\Solutions.dll
