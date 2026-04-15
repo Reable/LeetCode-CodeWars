@@ -5,7 +5,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
-func test() {
+func test2() {
 	l1 := ListNode{
 		Val: 2,
 		Next: &ListNode{
