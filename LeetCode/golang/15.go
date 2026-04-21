@@ -5,7 +5,7 @@ import (
 	"sort"
 )
 
-func main() {
+func test15() {
 	nums := []int{1, 2, 0, 1, 0, 0, 0, 0}
 	result := [][]int{[]int{-1, -1, 2}, []int{-1, 0, 1}}
 
