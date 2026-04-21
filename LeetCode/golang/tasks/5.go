@@ -1,30 +1,6 @@
-package main
+package tasks
 
-import (
-	"fmt"
-)
-
-func test5() {
-	strings := []string{
-		"babad",
-		"cbbd",
-	}
-	results := []string{
-		"bab",
-		"bb",
-	}
-
-	i := 0
-
-	for i < len(strings) {
-		result := longestPalindrome(strings[i])
-		fmt.Println("Correct answer: ", result == results[i], result)
-
-		i++
-	}
-}
-
-func longestPalindrome(s string) string {
+func LongestPalindrome(s string) string {
 	if len(s) == 0 {
 		return ""
 	}

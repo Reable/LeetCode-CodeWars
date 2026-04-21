@@ -1,19 +1,10 @@
-package main
+package tasks
 
 import (
-	"fmt"
 	"sort"
 )
 
-func test15() {
-	nums := []int{1, 2, 0, 1, 0, 0, 0, 0}
-	result := [][]int{[]int{-1, -1, 2}, []int{-1, 0, 1}}
-
-	answer := threeSum(nums)
-	fmt.Println("Correct answer: ", result, "-->", answer)
-}
-
-func threeSum(nums []int) [][]int {
+func ThreeSum(nums []int) [][]int {
 	var results [][]int
 
 	if len(nums) < 3 {

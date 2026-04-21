@@ -1,36 +1,10 @@
-package main
+package tasks
 
 import (
-	"fmt"
 	"strings"
 )
 
-func test6() {
-	strings := []string{
-		"PAYPALISHIRING",
-		// "PAYPALISHIRING",
-		"AB",
-	}
-
-	numRows := []int{
-		3,
-		// 4,
-		1,
-	}
-
-	results := []string{
-		"PAHNAPLSIIGYIR",
-		// "PINALSIGYAHRPI",
-		"AB",
-	}
-
-	for i := 0; i < len(strings); i++ {
-		result := convert1(strings[i], numRows[i])
-		fmt.Println("Correct answer: ", result == results[i], result)
-	}
-}
-
-func convert1(s string, numRows int) string {
+func Convert1(s string, numRows int) string {
 	if numRows < 2 {
 		return s
 	}
@@ -43,13 +17,13 @@ func convert1(s string, numRows int) string {
 	for _, char := range s {
 		rows[row] = append(rows[row], char)
 
+		row += direction
+
 		if row == 0 {
 			direction = 1
 		} else if row == numRows-1 {
 			direction = -1
 		}
-
-		row += direction
 	}
 
 	var result strings.Builder

@@ -1,29 +1,6 @@
-package main
+package tasks
 
-import (
-	"fmt"
-)
-
-func test4() {
-
-	nums1 := [][]int{
-		[]int{1, 3}, []int{1, 2},
-		[]int{0, 0},
-	}
-	nums2 := [][]int{
-		[]int{2}, []int{3, 4},
-		[]int{0, 0},
-	}
-
-	results := []float64{2.0, 2.5, 0.0}
-
-	for i := 0; i < len(nums1); i++ {
-		result := findMedianSortedArrays(nums1[i], nums2[i])
-		fmt.Println("Correct answer: ", result == results[i], result)
-	}
-}
-
-func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
+func FindMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	arr := mergeSort(nums1, nums2)
 	lengthArr := len(arr) - 1
 
