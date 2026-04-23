@@ -80,7 +80,7 @@ func TestThreeSum(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			got := tasks.ThreeSum(tt.nums)
+			got := tasks.ThreeSum15(tt.nums)
 
 			if !equal3Sum(got, tt.expected) {
 				t.Errorf("nums=%v got=%v expected=%v", tt.nums, got, tt.expected)

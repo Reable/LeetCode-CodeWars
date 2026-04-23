@@ -4,7 +4,7 @@ import (
 	"sort"
 )
 
-func ThreeSum(nums []int) [][]int {
+func ThreeSum15(nums []int) [][]int {
 	var results [][]int
 
 	if len(nums) < 3 {
