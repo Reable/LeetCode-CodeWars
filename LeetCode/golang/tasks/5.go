@@ -1,6 +1,6 @@
 package tasks
 
-func LongestPalindrome(s string) string {
+func LongestPalindrome5(s string) string {
 	if len(s) == 0 {
 		return ""
 	}

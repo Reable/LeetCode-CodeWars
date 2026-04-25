@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func TestLongestPalindrome(t *testing.T) {
+func TestLongestPalindrome5(t *testing.T) {
 	tests := []struct {
 		name     string
 		input    string
@@ -65,7 +65,7 @@ func TestLongestPalindrome(t *testing.T) {
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			result := tasks.LongestPalindrome(tt.input)
+			result := tasks.LongestPalindrome5(tt.input)
 
 			if !contains(tt.expected, result) {
 				t.Errorf("input %q: got %q, want one of %v",
