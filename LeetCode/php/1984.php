@@ -1,6 +1,6 @@
 <?php
 
-function minimumDifference($nums, $k) {
+function minimumDifference1984($nums, $k) {
     if(count($nums) <= 1) return 0;
 
     sort($nums);
