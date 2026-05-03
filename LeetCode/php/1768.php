@@ -1,6 +1,6 @@
 <?php
 
-function mergeAlternately($word1, $word2) {
+function mergeAlternately1768($word1, $word2) {
     $result = [];
     $len = min(strlen($word1), strlen($word2));
     $p1 = 0;
@@ -27,5 +27,3 @@ function mergeAlternately($word1, $word2) {
 
     return implode('', $result);
 }
-
-echo mergeAlternately("ab", "pqrs");

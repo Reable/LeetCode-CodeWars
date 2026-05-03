@@ -1,6 +1,6 @@
 <?php
 
-function detectCycle($head) {
+function detectCycle142($head) {
     $slow = $head;
     $fast= $head;
 

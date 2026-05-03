@@ -1,6 +1,6 @@
 <?php
 
-function kidsWithCandies($candies, $extraCandies) {
+function kidsWithCandies1431($candies, $extraCandies) {
     $maxCandie = max($candies);
     $result = array_fill(0, $maxCandie, false);
     for($i = 0; $i < count($candies); $i++) {
