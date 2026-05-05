@@ -8,7 +8,7 @@ class ListNode {
       $this->next = $next;
     }
 }
-function rotateRight($head, $k) {
+function rotateRight61($head, $k) {
     if($head == null || $head->next === null || $k == 0) return $head;
 
     $arrayLinks = array();
@@ -53,11 +53,11 @@ $a2->next = $a3;
 $a3->next = $a4;
 $a4->next = $a5;
 
-print_r(rotateRight($a1, 5));
+print_r(rotateRight61($a1, 5));
 
 $a1 = new ListNode(1);
 $a2 = new ListNode(2);
 
 $a1->next = $a2;
 
-print_r(rotateRight($a1, 3));
+print_r(rotateRight61($a1, 3));
