@@ -26,5 +26,3 @@ function isAnagram242($s, $t)
 }
 
 print_r(isAnagram242("anagram", "nagaram"));
-
-print_r(count_chars("anagram", 1));
