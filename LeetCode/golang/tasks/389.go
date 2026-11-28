@@ -1,7 +1,5 @@
 package tasks
 
-import "fmt"
-
 func FindTheDifference389_v1(s string, t string) byte {
 	temp := make(map[rune]int)
 
@@ -27,7 +25,7 @@ func FindTheDifference389_v2(s string, t string) string {
 	for _, c := range t {
 		temp[c]--
 	}
-	fmt.Println(temp)
+
 	for v, count := range temp {
 		if count == -1 {
 			return string(v)
